@@ -25,5 +25,5 @@ This is a simple Tic Tac Toe game implemented using HTML, CSS, and JavaScript. T
 - JavaScript (ES6)
 
 ## Preview
-https://github.com/ayush-dobiwala/TicTacToe/blob/main/preview/preview.gif
+![Alt Text](https://github.com/ayush-dobiwala/TicTacToe/blob/main/preview/preview.gif)
 
