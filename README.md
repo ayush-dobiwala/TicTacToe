@@ -22,7 +22,7 @@ This is a simple Tic Tac Toe game implemented using HTML, CSS, and JavaScript. T
 
 - HTML5
 - CSS3
-- JavaScript (ES6)
+- JavaScript
 
 ## Preview
 ![Alt Text](https://github.com/ayush-dobiwala/TicTacToe/blob/main/preview/preview.gif)
