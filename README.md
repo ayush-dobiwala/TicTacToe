@@ -1,4 +1,5 @@
-# Tic Tac Toe
+# Tic Tac Toe 
+### [preview](https://tic-tac-toe-sable-six.vercel.app/)
 
 This is a simple Tic Tac Toe game implemented using HTML, CSS, and JavaScript. The game is designed to be played by two players on a single PC. The objective of the game is for one player to align three of their marks (either X or O) horizontally, vertically, or diagonally before their opponent does.
 
@@ -24,6 +25,4 @@ This is a simple Tic Tac Toe game implemented using HTML, CSS, and JavaScript. T
 - CSS3
 - JavaScript
 
-## Preview
-![Alt Text](https://github.com/ayush-dobiwala/TicTacToe/blob/main/preview/preview.gif)
 
